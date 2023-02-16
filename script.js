@@ -6,7 +6,6 @@ let highscore = 0;
 
 document.querySelector('.check').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
-  console.log(guess, typeof guess);
   // kiedy nie ma liczby
   if (!guess) {
     document.querySelector('.message').textContent = '⛔️ Brak liczby!';
@@ -47,7 +46,6 @@ document.querySelector('.check').addEventListener('click', function () {
     }
   }
 });
-console.log(typeof score, secretNumber);
 
 document.querySelector('.again').addEventListener('click', function () {
   score = 20;
