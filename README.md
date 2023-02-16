@@ -1,1 +1,1 @@
-#❓🎲🎯 zgadnij liczbe
+# ❓🎲🎯 zgadnij liczbe
