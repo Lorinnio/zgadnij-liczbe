@@ -6,7 +6,12 @@
 
 ## Instrukcja
 
-W grę można zagrać [tutaj](https://zgadnijliczbe.netlify.app/){target="_blank"}. Po uruchomieniu gry, gracz wprowadza swoją propozycję liczby w polu tekstowym i naciska przycisk "Sprawdź". Komputer informuje gracza, czy liczba jest za duża, za mała czy właściwa. Gra kończy się, gdy gracz odgadnie tajemniczą liczbę lub zdecyduje się zakończyć grę. Istnieje możliwość powtórzenia rozgrywki oraz porawienia swojego highscore.
+<<<<<<< HEAD
+W grę można zagrać [tutaj](https://zgadnijliczbe.netlify.app/). Po uruchomieniu gry, gracz wprowadza swoją propozycję liczby w polu tekstowym i naciska przycisk "Sprawdź". Komputer informuje gracza, czy liczba jest za duża, za mała czy właściwa. Gra kończy się, gdy gracz odgadnie tajemniczą liczbę lub zdecyduje się zakończyć grę. Istnieje możliwość powtórzenia rozgrywki oraz porawienia swojego highscore.
+=======
+W grę można zagrać [tutaj](https://zgadnijliczbe.netlify.app/). Po uruchomieniu gry, gracz wprowadza swoją propozycję liczby w polu tekstowym i naciska przycisk "Sprawdź". Komputer informuje gracza, czy liczba jest za duża, za mała czy właściwa. Gra kończy się, gdy gracz odgadnie tajemniczą liczbę lub zdecyduje się zakończyć grę. Istnieje możliwość powtórzenia rozgrywki oraz porawienia swojego highscore.
+
+> > > > > > > 5c33f3b (fix)
 
 ## Technologie
 
