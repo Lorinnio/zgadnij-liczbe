@@ -106,10 +106,6 @@ h1 {
   cursor: pointer;
 }
 
-.btn:hover {
-  /* background-color: #ccc;` */
-}
-
 .message {
   margin-bottom: 8rem;
   height: 3rem;
@@ -120,42 +116,27 @@ h1 {
 }
 
 @media screen and (max-width: 60em) {
-  body {
-    /* background-color: blue; */
-  }
   html {
     font-size: 9px;
   }
 }
 @media screen and (max-width: 50em) {
-  body {
-    /* background-color: green; */
-  }
   html {
     font-size: 8px;
   }
 }
 
 @media screen and (max-width: 44em) {
-  body {
-    /* background-color: brown; */
-  }
   html {
     font-size: 7px;
   }
 }
 @media screen and (max-width: 36em) {
-  body {
-    /* background-color: pink; */
-  }
   html {
     font-size: 6px;
   }
 }
 @media screen and (max-width: 28em) {
-  body {
-    /* background-color: goldenrod; */
-  }
   html {
     font-size: 5px;
   }
