@@ -1,5 +1,8 @@
 # ❓🎲 Zgadnij liczbe
 
+<h1 align="center">
+   <img src="https://ik.imagekit.io/lorinnio/Zgadnij-liczbe-.png?updatedAt=1679330995709">
+</h1>
 ## Opis gry
 
 "Zgadnij liczbę" polega na odgadnięciu liczby wylosowanej przez komputer w przedziale od 1 do 20. Gracz może zgadywać liczby, a komputer informuje go, czy wybrane przez niego liczby są za duże, za małe czy właściwe. Celem gry jest odgadnięcie tajemniczej liczby przy jak najmniejszej liczbie prób.
