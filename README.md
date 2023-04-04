@@ -4,11 +4,11 @@
    <img src="https://ik.imagekit.io/lorinnio/Zgadnij-liczbe-.png?updatedAt=1679330995709">
 </h1>
 
-## Opis gry
+## About
 
-"Guess the Number" involves guessing a number drawn by the computer between 1 and 20. The player can guess numbers, and the computer tells him whether the numbers he has chosen are too big, too small or right. The goal of the game is to guess the mystery number with as few attempts as possible.
+"Zgadnij Liczbe" involves guessing a number drawn by the computer between 1 and 20. The player can guess numbers, and the computer tells him whether the numbers he has chosen are too big, too small or right. The goal of the game is to guess the mystery number with as few attempts as possible.
 
-## Instrukcja
+## Instruction
 
 You can play the game [here](https://zgadnijliczbe.netlify.app/). After starting the game, the player enters his proposed number in the text box and presses the "Check" button. The computer tells the player if the number is too big, too small or the right one. The game ends when the player guesses the mystery number or decides to end the game. It is possible to replay the game and adjust one's highscore.
 
